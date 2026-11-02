@@ -1,3 +1,5 @@
+const { NotImplementedError } = require('../lib');
+
 /**
  * Given a number, replace this number with
  * the sum of its digits until we get to a one digit number.
