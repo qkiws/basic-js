@@ -1,3 +1,5 @@
+const { NotImplementedError } = require('../lib');
+
 /**
  * Calculate turns number and time (in seconds) required
  * to solve puzzle
