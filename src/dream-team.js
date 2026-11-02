@@ -1,3 +1,5 @@
+const { NotImplementedError } = require('../lib');
+
 /**
  * Create name of dream team based on the names of its members
  *
