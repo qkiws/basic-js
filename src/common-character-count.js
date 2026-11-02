@@ -1,3 +1,5 @@
+const { NotImplementedError } = require('../lib');
+
 /**
  * Given two strings, find the number of common characters between them.
  *
