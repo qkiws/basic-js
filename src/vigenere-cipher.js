@@ -1,3 +1,5 @@
+const { NotImplementedError } = require('../lib');
+
 /**
  * Implement class VigenereCipheringMachine that allows us to create
  * direct and reverse ciphering machines according to task description
